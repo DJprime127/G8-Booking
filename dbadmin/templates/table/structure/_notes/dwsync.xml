@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="table_structure_header.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="partition_definition_form.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="move_columns_dialog.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="check_all_table_column.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="table_structure_row.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="display_partitions.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="row_stats_table.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="display_table_stats.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="optional_action_links.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="action_row_in_structure_table.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="display_structure.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="actions_in_table_structure.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="add_column.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+</dwsync>

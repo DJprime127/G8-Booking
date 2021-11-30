@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="create_version.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="activate_deactivate.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="report_table.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="structure_snapshot_columns.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="structure_snapshot_indexes.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+<file name="selectable_tables.twig" server="ec2-3-15-40-22.us-east-2.compute.amazonaws.com//var/www/" local="132292409240000000" remote="132292409240000000" Dst="1" />
+</dwsync>
